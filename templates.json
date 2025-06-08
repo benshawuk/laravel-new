@@ -164,6 +164,11 @@
             "title": "Nuxt UI Starter",
             "package": "stursby/nuxt-ui-starter",
             "repo": "stursby/nuxt-ui-starter"
+        },
+        {
+            "title": "React API Starter Kit",
+            "package": "benshawuk/react-api-starter-kit",
+            "repo": "benshawuk/react-api-starter-kit"
         }
     ]
 }
